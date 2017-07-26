@@ -1,0 +1,5 @@
+c:\users\ehasan\documents\visual studio 2013\Projects\SbfAnalyse\SbfAnalyse\bin\Debug\SbfAnalyse.exe.config
+c:\users\ehasan\documents\visual studio 2013\Projects\SbfAnalyse\SbfAnalyse\bin\Debug\SbfAnalyse.exe
+c:\users\ehasan\documents\visual studio 2013\Projects\SbfAnalyse\SbfAnalyse\bin\Debug\SbfAnalyse.pdb
+c:\users\ehasan\documents\visual studio 2013\Projects\SbfAnalyse\SbfAnalyse\obj\Debug\SbfAnalyse.exe
+c:\users\ehasan\documents\visual studio 2013\Projects\SbfAnalyse\SbfAnalyse\obj\Debug\SbfAnalyse.pdb
